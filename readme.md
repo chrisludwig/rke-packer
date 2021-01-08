@@ -1,4 +1,4 @@
-# Packer Templates for Rancher
+# Packer Templates for RKE
 
 This repo contains Packer templates suitable to create RKE VM's for a number of IaaS providers. These can be used as-is or used as a basis for further customisation
 
